@@ -23,7 +23,6 @@ etwas basic aber geht
 
 </RelativeLayout>
 
-testUpdateviaGit
 
  */
 
