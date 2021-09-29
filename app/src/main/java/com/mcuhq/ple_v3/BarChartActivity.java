@@ -67,6 +67,7 @@ public class BarChartActivity extends AppCompatActivity {
 
     private final String TAG = MainActivity.class.getSimpleName();
 
+
     // Status Infos
     private TextView mStatusInfoText1;
     private TextView mStatusInfoText2;
