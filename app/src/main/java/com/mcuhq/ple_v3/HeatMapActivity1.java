@@ -97,7 +97,6 @@ import static com.mapbox.mapboxsdk.style.layers.PropertyFactory.heatmapWeight;
 public class HeatMapActivity1 extends AppCompatActivity implements OnMapReadyCallback {
 
     private final String TAG = MainActivity.class.getSimpleName();
-
     // TextView
     private TextView mTV_HeatMapInfo1;
 
