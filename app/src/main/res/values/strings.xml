@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">Simple Bluetooth</string>
+    <string name="app_name">PathFinder.LE V2.1</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoia3Jpc3RpbmEyMDE5IiwiYSI6ImNrYno2MmF6MzBrdWcycW1yNTJyaXZtNzQifQ.0AGVUC-hgQVOO_p557MLdA</string>
+
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+    <!-- Strings used for fragments for navigation -->
+
+
+    <string-array name="list_items">
+        <item>iPhone 6__845$__2</item>
+        <item>iPad Air__800$__4</item>
+        <item>iPad Mini 2__500$__3</item>
+        <item>Galaxy Note 4__740$__7</item>
+        <item>Galaxy Alpha__599$__44</item>
+        <item>Galaxy Golden__950$__44</item>
+
+    </string-array>
+
 </resources>

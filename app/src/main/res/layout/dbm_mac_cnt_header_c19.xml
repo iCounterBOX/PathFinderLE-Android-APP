@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="*"
+    >
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <TextView
+            android:id="@+id/tv_C19_Header_Distance_4DbmMacCnt"
+            android:layout_column="0"
+            android:padding="2sp"
+            android:gravity="left"
+            android:layout_span="2"
+            android:text="Distance(Meter)"
+            android:textStyle="bold"
+            android:background="#c0c0c0"></TextView>
+
+        <TextView
+            android:id="@+id/tv_C19_Header_MAC_4DbmMacCnt"
+            android:layout_column="1"
+            android:background="#c0c0c0"
+            android:padding="2sp"
+            android:gravity="left"
+            android:text="MAC_BLE/C19"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:id="@+id/tv_C19_Header_Count_4DbmMacCnt"
+            android:layout_column="2"
+            android:background="#c0c0c0"
+            android:padding="2sp"
+            android:gravity="left"
+            android:text="CNT"
+            android:textStyle="bold"></TextView>
+    </TableRow>
+
+</TableLayout>
